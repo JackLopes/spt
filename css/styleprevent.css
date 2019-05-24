@@ -1,0 +1,40 @@
+
+
+.informt1{
+    background-color:#98FB98;
+     margin-top: -20px;
+    
+     
+}
+.content  {
+	position: relative;
+	margin-top:55px;
+} 
+.content img {
+	width: 2500px;
+	height: 140px;
+	margin-top: 0px;
+}
+
+.second{
+	margin-top: -20px;
+}
+
+.contreg{
+    margin-top: 10px;
+}
+
+
+.Assunt{
+    position:absolute;
+    margin-top: -130px;
+    margin-left: 50px;
+    color:white;
+    font-size: 150%;
+   
+}
+.mods2{
+    color: #006600;
+    font-weight: bold;
+    
+}

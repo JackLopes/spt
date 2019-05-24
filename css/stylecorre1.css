@@ -1,0 +1,64 @@
+#fm10 {
+	
+	
+	background-color:#cfcfcf;
+	box-shadow:  1px 1px 8px black;		
+	margin:auto;
+	width:1400px;
+	height: 600 px;
+	
+	
+}
+
+.bt1 {
+	position:absolute;
+	margin-top: 0px;
+	width:200px;
+	margin-left: 0px;
+	
+}
+
+.bt2 {
+	position:absolute;
+	margin-top: 0px;
+	width:200px;
+	margin-left: 200px;
+}
+
+.bt3 {
+	position:absolute;
+	margin-top: 0px;
+	width:200px;
+	margin-left: 400px;
+	
+}
+
+.bt4 {
+	position:absolute;
+	margin-top: 0px;
+	width:200px;
+	margin-left: 600px;
+}
+
+.bt5 {
+	position:absolute;
+	margin-top: 0px;
+	width:200px;
+	margin-left:800 px;
+	
+}
+
+.bt6 {
+	position:absolute;
+	margin-top: 0px;
+	width:200px;
+	margin-left:1000px;
+}
+.bt7 {
+	position:absolute;
+	margin-top: 0px;
+	width:200px;
+	margin-left:1200 px;
+	
+}
+

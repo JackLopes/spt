@@ -1,0 +1,65 @@
+/* style painel*/
+.contents  {
+	margin: auto;
+            
+}
+.tot  {
+	margin-top: 6px;
+            
+}
+
+
+.second{
+	margin-top: -20px;
+}
+
+.contreg{
+    margin-top: 10px;
+}
+
+
+.content  {
+	
+	margin-top: 66px;
+        
+        
+}
+.Assunt{
+    position:absolute;
+    margin-top: -130px;
+    margin-left: 50px;
+    color:white;
+    font-size: 150%;
+   
+}
+.tb4 {
+    margin-top: 200px;
+    
+}
+.ocult{
+    display:none
+}
+
+.title{
+    color:#0080FF;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.botao{
+    margin-top: 56px;
+      
+}
+
+.botao2{
+    margin-top: 56px;
+   
+}
+
+.iformes{
+    margin-top: 20px;
+} 
+
+#princ{
+   margin-top: 20px; 
+}

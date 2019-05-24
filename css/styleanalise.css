@@ -1,0 +1,82 @@
+#divisori1 {
+   
+    width: 70%;
+ vertical-align: top;
+}
+
+
+
+
+
+#divisori2 {
+    
+    width: 28%;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+
+body div {
+	display: inline-block;
+        
+}
+.content  {
+	
+	margin-top: -18px;
+}
+
+.content img {
+	width: 2500px;
+	height: 140px;
+	margin-top: -40px;
+}
+
+#cont{
+	margin-top: -0px;
+}
+
+body {
+    background-image:url( "imagem_header.jpg");
+  
+}
+
+#bottom{
+    margin-top: 5%;
+}
+
+.Assunt{
+    position:absolute;
+    margin-top: -130px;
+    margin-left: 50px;
+    color:white;
+    font-size: 150%;
+   
+}
+
+#tit2 {
+    position:absolute;
+    margin-top: -90px;
+    margin-left: 50%;
+    color:white;
+     font-size: 200%;
+   
+}
+
+.master{
+    margin-top: -60px;
+}
+
+.gloss{
+    margin-top: -85px;
+    margin-left: -50%;
+}
+
+.descri{
+    color: #0080FF;
+    font-weight: bold;
+    
+}
+
+#infor{
+    margin-left: 85%;
+}

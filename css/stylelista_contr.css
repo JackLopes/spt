@@ -1,0 +1,21 @@
+nav#menu li {
+	display:inline;
+	background-color:none;
+    margin:10px;
+	padding-left:20px;
+	padding-right:10px;
+	padding-top:0px;
+	transition:color 1s;
+}
+
+nav#menu a:hover {
+	color:#FFFFFF;
+	text-decoration:none;
+	text-shadow: 1px 1px 5px #FFFFFF;
+	font-size:14px;
+
+}
+
+nav#menu {
+	display:block;
+}

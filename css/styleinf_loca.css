@@ -1,0 +1,17 @@
+.Assunt{
+    position:absolute;
+    margin-top: -130px;
+    margin-left: 50px;
+    color:white;
+    font-size: 200%;
+   
+}
+
+#naviselect{
+    font-size: 20px;
+}
+
+#naviselect h6{
+    font-size: 25px;
+    text-decoration: underline darkgray;
+}

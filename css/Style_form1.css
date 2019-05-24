@@ -1,0 +1,43 @@
+
+
+.tb1  {
+	position:relative;
+	width:1550px;
+	background:black;
+	padding:0px;
+	height:35px;
+	text-align:center;
+	border:0px;
+	margin-top:0px;
+	
+}
+.header {
+	background:#cfcfcf;
+	text-align: center;
+	width:100%;
+	font-size:30px;
+	text-shadow:1px 1px 1px black;
+	color:#cccccc;
+	
+}
+#t1 {
+	text-align:center;
+	text-shadow:1px 1px 1px black;
+	color:#cccccc;
+	font-family:verdana;
+	font-size: 18px;
+	
+}
+
+.return {
+	position:absolute;
+	margin-top:800px;	
+	
+	
+}
+
+#a1  {
+	text-shadow: 1px 1px 1px black;
+	font-size:30px;
+	color:blue;
+}

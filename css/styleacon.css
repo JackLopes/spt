@@ -1,0 +1,109 @@
+*{
+font-family:Times new roman, Arial, Helvetica, sans-serif;
+}
+.contreg{
+    margin-top: 10px;
+}
+
+.tot{
+    margin-top: 20px;
+}
+.Assunt{
+    position:absolute;
+    margin-top: -130px;
+    margin-left: 50px;
+    color:white;
+    font-size: 150%;
+
+}
+
+#result{
+    margin-left: 10;
+    margin-top: 50px;
+}
+
+.form1{
+
+    margin: auto;
+
+
+}
+.content  {
+
+    margin-top: 66px;
+
+
+}
+
+.content1{
+    padding: 70px;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 1px;  
+    border-color:  #cfcfcf;
+    background-color: #fff;
+    border-radius: 15px;
+   
+}
+.content1 input, select{
+    
+    border-bottom-color: #ccc;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    font-style: italic;
+    color:#5A5A5A;
+    font-size: 26px;
+}
+
+
+
+.titl{
+    color:red;
+
+}
+.teste{
+    color:red;
+
+}
+.teste1{
+    color:red;
+
+}
+label{
+    color:black;
+    font-size: 23px;
+    font-weight: bold;
+}
+#fmr1 input{
+   
+    font-size: 24px;
+    
+}
+
+#fmr1 input:focus{
+    
+    background-color: #fFF;
+
+    
+    
+}
+#fmr1 select{
+   background-color: #fFF;
+
+    font-size: 20px;
+
+}
+
+#fmr1 select:focus{
+    
+    background-color: #fFF;
+
+   
+    
+}
+
+textarea:focus, input:focus, select:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+} 

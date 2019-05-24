@@ -1,0 +1,45 @@
+/*lista gera*/
+
+#div1 {
+		
+		margin-top:30px;
+		margin:auto;		
+		padding-left:250px;
+		padding-top:40px;		
+			
+	   
+	}
+	
+#a1 {
+	text-shadow: 1px 1px 1px #cfcfcf;
+	font-size:12px;
+	color:#848484;
+	
+}
+
+#a2 {
+	
+	font-size:12px;
+	color: #0080FF;
+	text-shadow: 1px 1px 2px #cfcfcf;
+	
+	
+}
+
+#a3 {
+	color:#363636;
+	font-size:12px;
+}
+
+li    {
+	list-style:none;
+	
+}
+
+h6{
+	 color:#cfcfcf;
+	 text-shadow:1px 1px 1px #cfcfcf;
+
+	 font-size:16px;
+}
+

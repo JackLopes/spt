@@ -1,0 +1,59 @@
+/* informação fornecedor*/
+
+
+
+#a1 {
+	font-size:15px;
+	font-family:verdana;	
+}
+li {
+	list-style-type:none;
+	color:blue;
+	top:150px;
+}
+
+nav#roda  {
+	list-style:none;
+	text-transform: uppercase;
+	position:absolute;
+	left:50px;
+	top:150px;
+	background-color:#0080FF;
+	width:100%;
+	left:0px;
+	height:20px;
+      
+}
+
+nav#roda li {
+	font-size:10px;
+	font-family:verdana;
+	color:black;
+}
+nav#roda li {
+	display:inline;	
+    margin:10px;
+	padding-left:20px;
+	padding-right:20px;
+	
+}
+
+
+nav#cent li {
+	list-style:none;	
+	position:absolute;	
+	top:400px;
+	background-color:#cfcfcf;
+	height:100px;
+}
+
+.td1  {
+	text-align:left;
+	color:#0080FF;
+	font-size:16px;
+	
+}	
+.return {
+	position:relative;
+	margin-top:10px;
+}	

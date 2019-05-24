@@ -1,0 +1,63 @@
+
+
+.view {
+    margin-top: 10px;
+  
+}
+
+.informt1{
+    background-color:#CD2626;
+     margin-top: -18px;
+    
+     
+}
+
+.message{
+    margin-bottom: 20px;
+    padding: none;   
+    
+}
+
+.content  {
+	
+	margin-top: 50px;
+}
+.content img {
+	width: 2500px;
+	height: 140px;
+	margin-top: 0px;
+}
+
+.second{
+	margin-top: -20px;
+}
+
+.contreg{
+    margin-top: 10px;
+}
+
+
+.Assunt{
+    position:absolute;
+    margin-top: -130px;
+    margin-left: 50px;
+    color:white;
+    font-size: 150%;
+   
+}
+
+label{
+    color: black;
+}
+
+.mods{
+     color:black;    
+     font-weight: bold;
+}
+    
+
+
+.mods1{
+     color:red;
+     font-weight: bold;
+}

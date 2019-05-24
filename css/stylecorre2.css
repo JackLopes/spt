@@ -1,0 +1,50 @@
+#fm10 {
+	
+	
+	
+
+	
+	color: #0080FF;
+	font-family: verdana;
+	
+	
+}
+
+.td1{
+	font-size: 10px;
+	color: black;
+	text-shadow:1px 1px 1px #cfcfcf;
+	background-color:#E8E8E8;
+	text-align:center;
+}
+
+
+.td2{
+	font-size:10px;
+	text-align:center;
+	
+	
+} 
+#cont {
+	
+	margin-top: 20px;
+	
+	
+}
+
+
+#t1{
+	margin-top:-30px;
+		color:#cfcfcf;
+	text-shadow:1px 1px 5px black;
+	height:40px;
+	padding-top:10px;
+	
+}
+
+#bt1 {
+	position:relative;
+	margin-top: 23px;
+	margin-left: 0px;
+}
+

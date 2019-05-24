@@ -1,0 +1,7 @@
+ <label for="tipo" >TIPO:</label>
+						  <select class="custom-select d-block w-100" type="text" name="tipo" id="ctipo" placeholder= "Aquisição ou Serviço" value="<?php if (isset($_POST['tipo']))echo $_POST['tipo'];?>" /></p>
+								<option value=""></option>
+							  <option value= "AQUISIÇÃO">AQUISIÇÃO</option>	
+							  <option value="SERVIÇOS">SERVIÇOS</option>
+							  <option value="SOLUÇÃO">SOLUÇÃO</option>
+						 </select>	

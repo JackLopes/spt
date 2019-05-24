@@ -1,0 +1,46 @@
+
+#fm6{
+	
+	margin:auto;
+	background-color:#cfcfcf;
+	box-shadow:  1px 1px 8px black;		
+	margin:auto;
+	width:600px;
+	
+}
+#t1 {
+	text-align:center;
+	text-shadow:1px 1px 1px black;
+	color:#E8E8E8;
+	font-family:verdana;
+	font-size: 18px;
+	
+}
+
+#etp1 {
+	 color:#0080FF;
+	 
+
+	
+}
+
+#etp2 {
+	 color:#cfcfcf;
+	 text-shadow:1px 1px 1px black;
+	 text-align:right;
+	 font-size:12px;
+	
+}
+h6 {
+	 color:#cfcfcf;
+	 text-shadow:1px 1px 1px #cfcfcf;
+	 text-align:center;
+	 font-size:10px;
+}
+
+
+.return {
+	position:relative;
+	margin-top:20px;
+	margin-left:647px;
+}	

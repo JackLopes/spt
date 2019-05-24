@@ -1,0 +1,105 @@
+/*lista gera*/
+
+#a1 {
+	font-size:16px;
+	color: #363636;
+	text-shadow: 1px 1px 1px #cfcfcf;
+
+	
+	
+}
+
+#a2 {
+	
+	font-size:16px;
+	color:black;
+	text-shadow: 1px 1px 1px #cfcfcf;
+	
+	
+	
+	
+}
+
+#a3a {
+	color:#363636;
+	font-size:12px;
+	text-shadow: 1px 1px 1px #cfcfcf;
+	font-weight: bold;
+}
+
+
+#a3 {
+	color:#2F2F4F;
+	font-size:12px;
+	text-shadow: 1px 1px 1px #cfcfcf;
+	
+}
+
+#nps  {
+	list-style:none;
+	
+	
+}
+
+
+
+
+
+.np    {
+	list-style:none;
+	
+	
+}
+.gh {
+	list-style:none;
+}
+
+.no {
+	list-style:none;
+}
+
+
+h6{
+	 color:#cfcfcf;
+	 text-shadow:1px 1px 1px #cfcfcf;
+
+	 font-size:16px;
+}
+
+
+
+.content img {
+	width: 2500px;
+	height: 140px;
+	margin-top: -40px;
+}
+
+#cont{
+	margin-top: -0px;
+}
+
+
+#bottom{
+    margin-top: 5%;
+}
+
+.Assunt{
+    position:absolute;
+    margin-top: -100px;
+    margin-left: 50px;
+    color:white;
+    font-size: 150%;
+   
+}
+
+.content  {
+	
+	margin-top: 110px;
+        
+        
+}
+
+.img5 {
+  
+    margin-top: 40px;
+}

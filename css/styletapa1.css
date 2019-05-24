@@ -1,0 +1,39 @@
+
+#fm1{
+	
+	margin:auto;
+	background-color:#F5F5DC;
+	box-shadow:  1px 1px 8px black;	
+	position:absolute;
+	margin-left:200px
+	
+}
+#t1 {
+	text-align:center;
+	text-shadow:1px 1px 1px black;
+	color:#E8E8E8;
+	font-family:verdana;
+	font-size: 18px;
+	
+}
+
+#etp1 {
+	 color:#0080FF;
+	 text-shadow:1px 1px 1px #cfcfcf;
+
+	
+}
+
+#etp2 {
+	 color:#cfcfcf;
+	 text-shadow:1px 1px 1px black;
+	 text-align:center;
+	 font-size:12px;
+	
+}
+h6 {
+	 color:#cfcfcf;
+	 text-shadow:1px 1px 1px #cfcfcf;
+	 text-align:center;
+	 font-size:10px;
+}

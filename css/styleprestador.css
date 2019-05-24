@@ -1,0 +1,39 @@
+/* style painel*/
+.contents  {
+	margin: auto;
+            
+}
+.tot  {
+	margin-top: 6px;
+            
+}
+.content img {
+	width: 2500px;
+	height: 140px;
+	margin-top: 0px;
+        
+}
+
+.content  {
+	
+	margin-top: 66px;
+        
+        
+}
+.second{
+	margin-top: -20px;
+}
+
+.contreg{
+    margin-top: 10px;
+}
+
+
+.Assunt{
+    position:absolute;
+    margin-top: -130px;
+    margin-left: 50px;
+    color:white;
+    font-size: 150%;
+   
+}

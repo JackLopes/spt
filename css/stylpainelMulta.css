@@ -1,0 +1,63 @@
+
+body {
+	color: white;
+}
+
+
+.block div {
+	display: inline-block;
+     
+}
+.division {
+ 
+    width: 50%;  
+    height: 400px;
+    vertical-align: top;
+    
+   
+   
+}
+.division1 {
+ 
+    width: 49%;  
+    height: 350px;
+  
+}
+
+#red{
+    margin-top: 15px;
+   
+    width: 90%;
+    
+    
+    
+}
+#red2{
+    margin-top: 15px;
+   margin-left: 5%;
+width: 90%;
+    
+    
+}
+
+.moti{
+    margin-left: 213px;
+    margin-top: 5px;
+}
+
+#red2 p{
+    margin-left: 5px;
+}
+.tb3{
+  
+    margin-top:42%;
+}
+
+.Assunt{
+    position:absolute;
+    margin-top: -130px;
+    margin-left: 50px;
+    color:white;
+    font-size: 150%;
+   
+}

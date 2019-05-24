@@ -1,0 +1,41 @@
+
+#fm5{
+	
+	margin:auto;
+	background-color: #cfcfcf;
+	box-shadow:  1px 1px 8px black;	
+	width:600px;
+	margin-top:80px;
+
+	
+}
+#t1 {
+	text-align:center;
+	text-shadow:1px 1px 1px black;
+	color:#cfcfcf;
+	font-family:verdana;
+	font-size: 18px;
+	margin-top:20px;
+	
+}
+
+#etp1 {
+	 color:#0080FF;
+	 text-shadow:1px 1px 1px #cfcfcf;
+
+	
+}
+
+#etp2 {
+	 color:#cfcfcf;
+	 text-shadow:1px 1px 1px black;
+	 text-align:center;
+	 font-size:12px;
+	
+}
+h6 {
+	 color:#cfcfcf;
+	 text-shadow:1px 1px 1px #cfcfcf;
+	 text-align:center;
+	 font-size:10px;
+}

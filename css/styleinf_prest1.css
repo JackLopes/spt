@@ -1,0 +1,85 @@
+/* informação fornecedor*/
+
+
+
+#a1 {
+	font-size:15px;
+	font-family:verdana;	
+}
+li {
+	list-style-type:none;
+	color:blue;
+	top:150px;
+}
+
+nav#roda  {
+	
+	
+	position:absolute;
+	left:50px;
+	top:57px;
+	background-color:black;
+	width:600px;
+	left:800px;
+	height:0px;
+}
+
+#roda a {
+	font-size:8px;
+	font-family:verdana;
+	color:black;
+	display:inline;	
+    margin:10px;
+	padding-left:20px;
+	padding-right:20px;
+	margin-top:10px;
+	text-align:left;
+	color:#0080FF;
+}
+
+
+
+
+nav#cent li {
+	list-style:none;	
+	position:absolute;	
+	top:400px;
+	background-color:#cfcfcf;
+	height:100px;
+}
+
+.td1  {
+	text-align:left;
+	color:#0080FF;
+	font-size:16px;
+	
+}	
+.return {
+	position:relative;
+	margin-top:3px;
+}	
+
+#forn {
+	width: 1300px;
+	box-shadow:  1px 1px 20px #363636;
+	margin:auto;
+	margin-top:30px;
+	
+}
+
+#cont {
+	width: 1300px;
+	box-shadow:  1px 1px 20px #363636;
+	margin:auto;
+	margin-top:40px;
+	
+	
+	
+}
+.td2  {
+	text-align:left;
+	
+	font-size:12px;
+	
+}	
+

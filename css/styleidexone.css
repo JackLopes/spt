@@ -1,0 +1,86 @@
+#tb1 {
+	text-align:center;
+	
+	color:black;
+	font-family:verdana;
+	font-size: 12px;
+	border:1px;
+	text-align:left;
+	
+	
+	
+	
+}
+
+
+
+#div1{
+	
+	
+	margin:auto;	
+	margin-top:40px;
+	
+}
+
+
+#div2{
+	
+	margin:auto;	
+	margin-top:30px;
+	
+}
+
+.td2 {
+	width:600px;
+	font-size:12px;
+	
+}
+.td3 {
+	width:50px;
+	font-size:12px;
+	
+}
+
+#links {
+	text-transform: uppercase;
+	font-size: 10px;
+	margin-left:-5px;
+	margin-top:30px;
+	
+	
+}
+
+#link2 {
+	text-transform: uppercase;
+	font-size: 9px;
+	margin-left:-5px;
+	margin-top:20px;
+	width:1000px;
+	
+	
+	
+}
+#volt {
+	
+	font-size: 10px;
+	margin-left:10px;
+	margin-top:30px;
+	color:red;
+}
+
+#Rap {
+	position:absolute;
+	Width:200px;
+	font-size:10px;
+	border:none;
+	height:30px;
+	margin-top:10px;
+	margin-left:20px;
+	outline: 0;
+	color:black;
+}
+
+#form6 {
+	margin-left:500px;
+	
+}

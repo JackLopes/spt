@@ -1,0 +1,58 @@
+.tb1 {
+	text-align:center;
+	text-shadow:1px 1px 1px #cfcfcf;
+	color:black;
+	font-family:verdana;
+	font-size: 18px;
+	border:1px;
+	text-align:left;
+	
+	
+}
+
+
+
+
+#div1{
+	width:1300px;
+	height:300px;
+	background-color:#cfcfcf;
+	box-shadow:  1px 1px 8px black;	
+	margin:auto;	
+	margin-top:40px;
+      
+	
+}
+
+.td1 {
+	width:450px;
+	font-size: 10px;
+	
+}
+
+nav#roda  {
+	list-style:none;
+	text-transform: uppercase;
+	position:absolute;
+	left:50px;
+	top:630px;
+	background-color:#FFFFFF;;
+	width:100%;
+	left:0px;
+	height:20px;
+}
+
+#roda li {
+	font-size:10px;
+	font-family:verdana;
+	color:black;
+	display:inline;	
+    margin:10px;
+	padding-left:20px;
+	padding-right:20px;
+	margin-top:20px;
+}
+
+#Rap {
+	Width:300px;
+}

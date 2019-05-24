@@ -1,0 +1,57 @@
+
+body {
+	color: white;
+}
+
+
+body div {
+	display: inline-block;
+}
+.figuretion {
+ 
+    width: 60%;  
+    text-align: center;
+}
+.figuretion img{
+   width: 70%;
+   border-radius: 70%;
+   margin-top: 13%;
+
+}
+
+.information form{
+    margin-top: 30%;
+	color: white;
+}
+
+.information input {
+  width: 50%;
+  margin-left: 25%;
+   
+}
+.information  button {
+   width: 50%;
+  margin-left: 25%;
+   
+
+}
+.information{
+   text-align: center;
+   vertical-align: top;
+   width: 39%;
+   height: 100%;
+  
+   
+}
+#inputPassword{
+	 margin-top:2%;
+	}
+
+form button{
+
+	margin-top:2%;
+}
+
+.cadast{
+    margin-bottom:  10px;
+}

@@ -1,0 +1,56 @@
+
+body {
+	color: white;
+}
+
+
+.block div {
+	display: inline-block;
+}
+.division {
+ 
+    width: 49%;  
+    height: 230px;
+    vertical-align: top;
+   
+}
+.division1 {
+ 
+    width: 49%;  
+   height: 230px;
+}
+.division2 {
+
+    width: 49%;  
+   height: 150px;
+}
+.division3 {
+ 
+   width: 49%;  
+   height: 150px;
+   vertical-align: top;
+}
+#red{
+    margin-top: 15px;
+    margin-left: 5%;
+    width: 90%;
+    
+    
+    
+}
+#red2{
+    margin-top: 15px;
+   margin-left: 5%;
+width: 90%;
+    
+    
+}
+
+.moti{
+    margin-left: 213px;
+    margin-top: 5px;
+}
+
+#red2 p{
+    margin-left: 5px;
+}

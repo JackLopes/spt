@@ -1,0 +1,69 @@
+.tb1 {
+	text-align:center;
+	text-shadow:1px 1px 1px #cfcfcf;
+	color:black;
+	font-family:verdana;
+	font-size: 18px;
+	border:1px;
+	text-align:left;
+	
+	
+}
+
+
+
+
+#div1{
+	width:1300px;
+	height:400px;
+	background-color:#cfcfcf;
+	box-shadow:  1px 1px 8px black;	
+	margin:auto;	
+	margin-top:40px;
+	
+}
+
+.td1 {
+	width:450px;
+	font-size:14px;
+	
+}
+
+nav#roda  {
+	list-style:none;
+	text-transform: uppercase;
+	position:absolute;
+	left:50px;
+	top:630px;
+	background-color:#FFFFFF;
+	width:800px;
+	left:200px;
+	height:20px;
+}
+
+#roda li {
+	font-size:10px;
+	font-family:verdana;
+	color:black;
+	display:inline;	
+    margin:10px;
+	padding-left:20px;
+	padding-right:20px;
+	margin-top:20px;
+}
+
+#Rap {
+	position:absolute;
+	Width:200px;
+	font-size:10px;
+	border:none;
+	height:30px;
+	margin-top:90px;
+	margin-left:20px;
+	outline: 0;
+	color:black;
+}
+.return {
+	position:relative;
+	margin-top:3px;
+}	

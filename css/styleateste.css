@@ -1,0 +1,67 @@
+
+
+
+.view {
+    margin-top: 10px;
+  
+}
+
+.informt1{
+    background-color:#F5DEB3;
+     margin-top: -17px;
+    
+     
+}
+.informt{
+     background-color:#F5DEB3;
+     margin-top: -10px;
+     
+}
+.center{
+    text-align: center;
+}
+a {
+    text-align: center;
+}
+
+
+.message{
+    margin-bottom: 20px;
+    padding: none;   
+    
+}
+
+.content  {
+	
+	margin-top:-9px;
+} 
+.content img {
+	width: 2500px;
+	height: 140px;
+	margin-top: 0px;
+}
+
+.second{
+	margin-top: -20px;
+}
+
+.contreg{
+    margin-top: 10px;
+}
+
+
+.Assunt{
+    position:absolute;
+    margin-top: -130px;
+    margin-left: 50px;
+    color:white;
+    font-size: 150%;
+   
+}
+
+#cmes{
+    height: 55px;
+}
+#cano{
+    height: 55px;
+}

@@ -1,0 +1,59 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.content  {
+	
+	margin-top: 50px;
+}
+
+
+.second{
+	margin-top: -20px;
+}
+
+.contreg{
+    margin-top: 10px;
+}
+
+
+.Assunt{
+    position:absolute;
+    margin-top: -130px;
+    margin-left: 50px;
+    color:white;
+    font-size: 150%;
+   
+  
+}
+
+label{
+    color: black;
+}
+
+.mods{
+     color:black;    
+     font-weight: bold;
+}
+    
+
+
+.mods1{
+     color:red;
+     font-weight: bold;
+}
+
+.regis{
+    margin: auto;
+}
+
+
+.informt1{
+    
+     margin-top: -18px;
+    
+     
+}
